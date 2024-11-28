@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Tak Berkategori &#8211; NURJIHAN LUTHFIANA SIHURA</title>
+	<atom:link href="https://jihannls.github.io/Web_Nurjihan/category/tak-berkategori/feed/" rel="self" type="application/rss+xml" />
+	<link>https://jihannls.github.io/Web_Nurjihan</link>
+	<description>Sistem Informasi 1B (10111050)</description>
+	<lastBuildDate>Thu, 28 Nov 2024 06:46:05 +0000</lastBuildDate>
+	<language>id</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>Project Implementasi IOT menggunakan Wokwi</title>
+		<link>https://jihannls.github.io/Web_Nurjihan/2024/11/28/project-implementasi-iot-menggunakan-wokwi/</link>
+					<comments>https://jihannls.github.io/Web_Nurjihan/2024/11/28/project-implementasi-iot-menggunakan-wokwi/#respond</comments>
+		
+		<dc:creator><![CDATA[jihanls]]></dc:creator>
+		<pubDate>Thu, 28 Nov 2024 06:46:05 +0000</pubDate>
+				<category><![CDATA[Tak Berkategori]]></category>
+		<guid isPermaLink="false">https://jihannls.github.io/Web_Nurjihan/?p=95</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<div class="wp-block-media-text is-stacked-on-mobile" style="grid-template-columns:45% auto"><figure class="wp-block-media-text__media"><img fetchpriority="high" decoding="async" width="500" height="325" src="https://jihannls.github.io/Web_Nurjihan/wp-content/uploads/2024/11/cover.jpg" alt="" class="wp-image-96 size-full"/></figure><div class="wp-block-media-text__content">
+<p><strong>PROJECT PENGUKUR SUHU TUBUH</strong></p>
+
+
+
+<details class="wp-block-details is-layout-flow wp-block-details-is-layout-flow"><summary>LINK WOKWI</summary><a class="wp-block-read-more" href="https://jihannls.github.io/Web_Nurjihan/2024/11/28/project-implementasi-iot-menggunakan-wokwi/" target="_self">https://wokwi.com/projects/415777804872251393<span class="screen-reader-text">: Project Implementasi IOT menggunakan Wokwi</span></a></details>
+</div></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://jihannls.github.io/Web_Nurjihan/2024/11/28/project-implementasi-iot-menggunakan-wokwi/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>BIODATA</title>
+		<link>https://jihannls.github.io/Web_Nurjihan/2024/11/28/biodata/</link>
+					<comments>https://jihannls.github.io/Web_Nurjihan/2024/11/28/biodata/#respond</comments>
+		
+		<dc:creator><![CDATA[jihanls]]></dc:creator>
+		<pubDate>Thu, 28 Nov 2024 02:25:30 +0000</pubDate>
+				<category><![CDATA[Tak Berkategori]]></category>
+		<guid isPermaLink="false">https://jihannls.github.io/Web_Nurjihan/?p=17</guid>
+
+					<description><![CDATA[Hi Everyone! Saya Nurjihan Luthfiana Sihura Merupakan mahasiswa Politeknik Negeri Subang, Jurusan Teknologi Informasi dan Komputer, prodi Sistem Informasi kelas &#8230; ]]></description>
+										<content:encoded><![CDATA[
+<h2 class="wp-block-heading">Hi Everyone!</h2>
+
+
+
+<div class="wp-block-media-text is-stacked-on-mobile" style="grid-template-columns:30% auto"><figure class="wp-block-media-text__media"><img decoding="async" width="750" height="720" src="https://jihannls.github.io/Web_Nurjihan/wp-content/uploads/2024/11/jihan.jpeg" alt="" class="wp-image-9 size-full"/></figure><div class="wp-block-media-text__content">
+<p>Saya Nurjihan Luthfiana Sihura</p>
+
+
+
+<p>Merupakan mahasiswa Politeknik Negeri Subang, Jurusan Teknologi Informasi dan Komputer, prodi Sistem Informasi kelas 1b</p>
+</div></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://jihannls.github.io/Web_Nurjihan/2024/11/28/biodata/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
